@@ -328,6 +328,22 @@
 .sec6 .div1{
     position: relative;
 }
+.sec6 .div1 .smmaBack{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transform: translateY(120px);
+}
+.sec6 .div1 .smmaBack h1{
+    font-size: 170px;
+    font-family: "Montserrat","Sans Serif";
+    line-height: 56px;
+    letter-spacing: -20px;
+    margin-bottom: 75px;
+    color: white;
+    -webkit-text-stroke:0.5px #B5B5B5 ;
+}
 .sec6 .div1 img{
     width: 528px;
     height: 666px;
